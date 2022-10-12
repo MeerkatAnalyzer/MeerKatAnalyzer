@@ -26,3 +26,6 @@ When a new pull request or commit shows up our solution will check changes in th
     * Ransomware attack  
     * Steal credentials  
 3. Application fuzzing - fuzz binary/endpoints with AFL and our AI that looks for suspicious behaviour (executing unpredicted commands or sending packets).
+
+## Roadmap
+![roadmap](roadmap.png)
