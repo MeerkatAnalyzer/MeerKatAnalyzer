@@ -8,7 +8,7 @@ Our main goal is to detect malicious changes in your project that could be (or c
 The main reasons for the usage of the MeerkatAnalizer are:  
 1. **Safer project**  
 You don't need to worry about a corrupted or angry employee that could destroy the reputation of your solution.
-2. **Faster software developing**  
+2. **Faster software development**  
 Your project managers and security team will spend less time on change analysis.  
 3. **Modern technologies**  
 Usage of modern and well-known technologies like Hugging Face and TensorFlow.
