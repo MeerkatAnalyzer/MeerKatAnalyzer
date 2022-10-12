@@ -1,5 +1,5 @@
 # MeerkatAnalizer
-![logo](logo.png)  
+![logo](logo.svg)  
 ### _Let us watch over the security of your project_ 
 Meerkat is a powerful AI-based system for security and trust assessment of the commits and pulls requests to your repository.
 Our main goal is to detect malicious changes in your project that could be (or cause) backdoors.  
